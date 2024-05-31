@@ -15,8 +15,5 @@ int main() {
 //function added in branch1
 int func_add(int a, int b)
 {
-	// i am in branch1 #simeran
-	// i am making this changessassss in 
-	// one more change 
 	return a+b;
 }
